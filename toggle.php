@@ -67,4 +67,3 @@ foreach ($codesToToggle as $codeSendCode) {
 }
 
 die(json_encode(array('success' => true)));
-?>
